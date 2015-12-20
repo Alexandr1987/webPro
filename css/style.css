@@ -9,18 +9,17 @@ font-face {
   font-style: normal;
 }
 
-/* line 19, ../sass/style.scss */
-sdf
+/* line 20, ../sass/style.scss */
 header {
   background: #dcdcdc;
 }
 
-/* line 25, ../sass/style.scss */
+/* line 24, ../sass/style.scss */
 .clear {
   clear: both;
 }
 
-/* line 29, ../sass/style.scss */
+/* line 28, ../sass/style.scss */
 .header {
   width: 1000px;
   margin: 0 auto;
@@ -28,27 +27,27 @@ header {
   overflow: hidden;
 }
 
-/* line 36, ../sass/style.scss */
+/* line 35, ../sass/style.scss */
 .logo {
   width: 50%;
   float: left;
 }
 
-/* line 41, ../sass/style.scss */
+/* line 40, ../sass/style.scss */
 .info {
   width: 50%;
   float: right;
   text-align: right;
   margin-top: -30px;
 }
-/* line 46, ../sass/style.scss */
+/* line 45, ../sass/style.scss */
 .info p {
   font-family: 'open_sansregular';
   color: #777777;
   font-size: 40px;
   line-height: 45px;
 }
-/* line 52, ../sass/style.scss */
+/* line 51, ../sass/style.scss */
 .info span {
   text-decoration: none;
   font-family: "PT Sans", sans-serif;
@@ -60,32 +59,32 @@ header {
   cursor: pointer;
 }
 
-/* line 64, ../sass/style.scss */
+/* line 63, ../sass/style.scss */
 .logo img {
   float: left;
 }
 
 /*Menu*/
-/* line 71, ../sass/style.scss */
+/* line 70, ../sass/style.scss */
 section.wrap-menu {
   background: #777777;
 }
 
-/* line 75, ../sass/style.scss */
+/* line 74, ../sass/style.scss */
 .menu {
   width: 1000px;
   padding: 5px 10px;
   margin: 0 auto;
 }
 
-/* line 81, ../sass/style.scss */
+/* line 80, ../sass/style.scss */
 #mainmenu {
   position: relative;
   overflow: hidden;
   margin: 10px 0;
 }
 
-/* line 86, ../sass/style.scss */
+/* line 85, ../sass/style.scss */
 #mainmenu ul {
   list-style: none;
   margin: 0;
@@ -96,7 +95,7 @@ section.wrap-menu {
   font-family: "PT Sans", sans-serif;
 }
 
-/* line 96, ../sass/style.scss */
+/* line 95, ../sass/style.scss */
 #mainmenu ul li {
   position: relative;
   left: -50%;
@@ -106,12 +105,12 @@ section.wrap-menu {
   padding-right: 20px;
 }
 
-/* line 105, ../sass/style.scss */
+/* line 104, ../sass/style.scss */
 #mainmenu ul li.last {
   background: none !important;
 }
 
-/* line 108, ../sass/style.scss */
+/* line 107, ../sass/style.scss */
 #mainmenu ul li a {
   display: block;
   text-decoration: none;
@@ -120,13 +119,13 @@ section.wrap-menu {
   color: #fff;
 }
 
-/* line 115, ../sass/style.scss */
+/* line 114, ../sass/style.scss */
 #mainmenu ul li a:hover {
   text-decoration: underline;
 }
 
 /*Slider*/
-/* line 121, ../sass/style.scss */
+/* line 120, ../sass/style.scss */
 .wrap-slider {
   height: 387px;
   background: url("../img/slide-bg.jpg") no-repeat;
@@ -134,36 +133,36 @@ section.wrap-menu {
 }
 
 /*Hleb*/
-/* line 128, ../sass/style.scss */
+/* line 127, ../sass/style.scss */
 .in_hleb {
   width: 1000px;
   margin: 0 auto;
   overflow: hidden;
   padding: 0 10px;
 }
-/* line 133, ../sass/style.scss */
+/* line 132, ../sass/style.scss */
 .in_hleb ul {
   overflow: hidden;
   padding: 10px 0;
 }
-/* line 136, ../sass/style.scss */
+/* line 135, ../sass/style.scss */
 .in_hleb ul li {
   float: left;
   margin-left: 10px;
 }
-/* line 139, ../sass/style.scss */
+/* line 138, ../sass/style.scss */
 .in_hleb ul li a {
   font-family: "PT Sans", sans-serif;
   color: #777777;
   font-size: 14px;
 }
-/* line 146, ../sass/style.scss */
+/* line 145, ../sass/style.scss */
 .in_hleb ul :first-child {
   margin-left: 0px;
 }
 
 /*Content*/
-/* line 153, ../sass/style.scss */
+/* line 152, ../sass/style.scss */
 .in_main_content {
   width: 1000px;
   margin: 0 auto;
@@ -171,60 +170,60 @@ section.wrap-menu {
   overflow: hidden;
 }
 
-/* line 160, ../sass/style.scss */
+/* line 159, ../sass/style.scss */
 .left_content {
   float: left;
   width: 20%;
 }
-/* line 163, ../sass/style.scss */
+/* line 162, ../sass/style.scss */
 .left_content ul li {
   margin-top: 12px;
 }
-/* line 165, ../sass/style.scss */
+/* line 164, ../sass/style.scss */
 .left_content ul li a {
   font-family: "PT Sans", sans-serif;
   color: #777777;
   font-size: 20px;
   text-decoration: none;
 }
-/* line 171, ../sass/style.scss */
+/* line 170, ../sass/style.scss */
 .left_content ul li ul {
   margin-left: 15px;
 }
-/* line 175, ../sass/style.scss */
+/* line 174, ../sass/style.scss */
 .left_content ul li ul li {
   padding-left: 15px;
   background: url("../img/point.png") no-repeat left center;
 }
-/* line 178, ../sass/style.scss */
+/* line 177, ../sass/style.scss */
 .left_content ul li ul li a {
   font-family: "PT Sans", sans-serif;
   color: #777777;
   font-size: 14px;
 }
-/* line 184, ../sass/style.scss */
+/* line 183, ../sass/style.scss */
 .left_content ul li ul li a:hover, .left_content ul li ul li a.active {
   color: #010101;
   text-decoration: underline;
 }
-/* line 191, ../sass/style.scss */
+/* line 190, ../sass/style.scss */
 .left_content a.exel {
   display: block;
   text-align: center;
   margin-top: 100px;
 }
 
-/* line 198, ../sass/style.scss */
+/* line 197, ../sass/style.scss */
 .right_cintent {
   width: 80%;
   float: right;
 }
-/* line 201, ../sass/style.scss */
+/* line 200, ../sass/style.scss */
 .right_cintent ul.main_tovars {
   overflow: hidden;
   margin-top: 20px;
 }
-/* line 204, ../sass/style.scss */
+/* line 203, ../sass/style.scss */
 .right_cintent ul.main_tovars li {
   float: left;
   width: 206px;
@@ -232,14 +231,14 @@ section.wrap-menu {
   padding: 22px;
   margin-left: 15px;
 }
-/* line 210, ../sass/style.scss */
+/* line 209, ../sass/style.scss */
 .right_cintent ul.main_tovars li p.opisanie {
   font-family: "PT Sans", sans-serif;
   color: #767676;
   font-size: 20px;
   text-align: left;
 }
-/* line 216, ../sass/style.scss */
+/* line 215, ../sass/style.scss */
 .right_cintent ul.main_tovars li p.cena {
   font-family: "PT Sans", sans-serif;
   color: #444444;
@@ -248,20 +247,20 @@ section.wrap-menu {
   font-weight: bold;
   margin-top: 40px;
 }
-/* line 223, ../sass/style.scss */
+/* line 222, ../sass/style.scss */
 .right_cintent ul.main_tovars li p.cena a {
   float: right;
 }
 
 /*Paination*/
-/* line 232, ../sass/style.scss */
+/* line 231, ../sass/style.scss */
 #main_pagin {
   position: relative;
   overflow: hidden;
   margin: 60px 0 30px 0;
 }
 
-/* line 237, ../sass/style.scss */
+/* line 236, ../sass/style.scss */
 #main_pagin ul {
   list-style: none;
   margin: 0;
@@ -272,7 +271,7 @@ section.wrap-menu {
   font-family: "PT Sans", sans-serif;
 }
 
-/* line 247, ../sass/style.scss */
+/* line 246, ../sass/style.scss */
 #main_pagin ul li {
   position: relative;
   left: -50%;
@@ -281,7 +280,7 @@ section.wrap-menu {
   background: url();
 }
 
-/* line 255, ../sass/style.scss */
+/* line 254, ../sass/style.scss */
 #main_pagin ul li a {
   display: block;
   text-decoration: none;
@@ -290,7 +289,7 @@ section.wrap-menu {
   font-size: 14px;
 }
 
-/* line 263, ../sass/style.scss */
+/* line 262, ../sass/style.scss */
 #main_pagin ul li a.active {
   color: #444444;
   -moz-transform: scale(1.4);
@@ -304,13 +303,13 @@ section.wrap-menu {
   transform: scale(1.4);
 }
 
-/* line 274, ../sass/style.scss */
+/* line 273, ../sass/style.scss */
 .right_content_footer {
   overflow: hidden;
   border-top: 2px solid #777777;
   padding-bottom: 190px;
 }
-/* line 278, ../sass/style.scss */
+/* line 277, ../sass/style.scss */
 .right_content_footer p {
   font-family: "PT Sans", sans-serif;
   font-size: 14px;
@@ -318,30 +317,30 @@ section.wrap-menu {
   line-height: 22px;
   text-align: justify;
 }
-/* line 286, ../sass/style.scss */
+/* line 285, ../sass/style.scss */
 .right_content_footer .right_content_footer_left {
   float: left;
   width: 47%;
 }
-/* line 290, ../sass/style.scss */
+/* line 289, ../sass/style.scss */
 .right_content_footer .right_content_footer_right {
   float: right;
   width: 47%;
 }
 
 /*Footer*/
-/* line 298, ../sass/style.scss */
+/* line 297, ../sass/style.scss */
 footer {
   background: #777777;
 }
-/* line 300, ../sass/style.scss */
+/* line 299, ../sass/style.scss */
 footer .in_footer {
   width: 1000px;
   padding: 40px 10px;
   margin: 0 auto;
   overflow: hidden;
 }
-/* line 305, ../sass/style.scss */
+/* line 304, ../sass/style.scss */
 footer .in_footer address {
   font-style: normal;
   float: left;
@@ -350,39 +349,39 @@ footer .in_footer address {
   font-size: 18px;
   line-height: 22px;
 }
-/* line 313, ../sass/style.scss */
+/* line 312, ../sass/style.scss */
 footer .in_footer ul {
   float: left;
   margin-left: 155px;
 }
-/* line 316, ../sass/style.scss */
+/* line 315, ../sass/style.scss */
 footer .in_footer ul li {
   margin-top: 10px;
 }
-/* line 318, ../sass/style.scss */
+/* line 317, ../sass/style.scss */
 footer .in_footer ul li a {
   color: #fff;
   font-family: "PT Sans", sans-serif;
   font-size: 18px;
 }
-/* line 324, ../sass/style.scss */
+/* line 323, ../sass/style.scss */
 footer .in_footer ul li a:hover {
   text-decoration: none;
 }
 
 /*╠юфры№эюх юъэю*/
 /* global */
-/* line 333, ../sass/style.scss */
+/* line 332, ../sass/style.scss */
 .g-hidden {
   display: none;
 }
 
-/* line 334, ../sass/style.scss */
+/* line 333, ../sass/style.scss */
 .g-line {
   zoom: 1;
 }
 
-/* line 335, ../sass/style.scss */
+/* line 334, ../sass/style.scss */
 .g-line:after {
   content: ".";
   display: block;
@@ -392,14 +391,14 @@ footer .in_footer ul li a:hover {
 }
 
 /* layouts */
-/* line 338, ../sass/style.scss */
+/* line 337, ../sass/style.scss */
 .l-container {
   width: 720px;
   padding: 0 40px;
   margin: 0 auto;
 }
 
-/* line 339, ../sass/style.scss */
+/* line 338, ../sass/style.scss */
 .box-modal {
   position: relative;
   width: 500px;
@@ -411,7 +410,7 @@ footer .in_footer ul li a:hover {
   border-radius: 6px;
 }
 
-/* line 349, ../sass/style.scss */
+/* line 348, ../sass/style.scss */
 .box-modal_close {
   position: absolute;
   right: 10px;
@@ -422,7 +421,7 @@ footer .in_footer ul li a:hover {
   cursor: pointer;
 }
 
-/* line 350, ../sass/style.scss */
+/* line 349, ../sass/style.scss */
 .box-modal_close:hover {
   color: #666;
 }
