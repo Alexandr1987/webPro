@@ -9,7 +9,8 @@ font-face {
   font-style: normal;
 }
 
-/* line 21, ../sass/style.scss */
+/* line 19, ../sass/style.scss */
+sdf
 header {
   background: #dcdcdc;
 }
@@ -42,7 +43,7 @@ header {
 }
 /* line 46, ../sass/style.scss */
 .info p {
-  font-family: 'open_sansregular', sans-serif;
+  font-family: 'open_sansregular';
   color: #777777;
   font-size: 40px;
   line-height: 45px;
@@ -293,13 +294,13 @@ section.wrap-menu {
 #main_pagin ul li a.active {
   color: #444444;
   -moz-transform: scale(1.4);
-  /* в”ЂС‹В  Firefox */
+  /* ─ы  Firefox */
   -ms-transform: scale(1.4);
-  /* в”ЂС‹В  IE */
+  /* ─ы  IE */
   -webkit-transform: scale(1.4);
-  /* в”ЂС‹В  Safari, Chrome, iOS */
+  /* ─ы  Safari, Chrome, iOS */
   -o-transform: scale(1.4);
-  /* в”ЂС‹В  Opera */
+  /* ─ы  Opera */
   transform: scale(1.4);
 }
 
@@ -369,7 +370,7 @@ footer .in_footer ul li a:hover {
   text-decoration: none;
 }
 
-/*в• СЋС„СЂС‹в„–СЌСЋС… СЋСЉСЌСЋ*/
+/*╠юфры№эюх юъэю*/
 /* global */
 /* line 333, ../sass/style.scss */
 .g-hidden {
